@@ -4,7 +4,7 @@
 // @version 0.1
 // @description try to take over the world!
 // @author lzrdblzzrd
-// @match https://discordapp.com/*
+// @match https://discord.com/*
 // @downloadURL https://raw.githubusercontent.com/lzrdblzzrd/getDiscordToken/master/getDiscordToken.user.js
 // @updateURL https://raw.githubusercontent.com/lzrdblzzrd/getDiscordToken/master/getDiscordToken.user.js
 // @grant all

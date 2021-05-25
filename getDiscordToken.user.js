@@ -27,7 +27,7 @@
 						<a style='font-family: Courier; color: white; font-size: 25px' href='https://lzrdblzzrd.space/'>https://lzrdblzzrd.space/</a>
 					</center>
 					<div class='centered'>
-						<input id='authToken' size='65'>
+						<input id='authToken' size='75'>
 					</div>
 				<style>
 					.centered {
